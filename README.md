@@ -1,4 +1,4 @@
-# Any-Language Word Guessing Game (now in Tamil)
+# Any-Language Word Guessing Game (now in Tamil!)
 
 ## Changes in this fork
 
